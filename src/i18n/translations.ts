@@ -21,6 +21,8 @@ const translations = {
     langSwitchTr: 'TR',
     langSwitchEn: 'EN',
     langAria: 'Site dilini seç',
+    navOpenMenu: 'Menüyü aç',
+    navCloseMenu: 'Menüyü kapat',
 
     heroBadge: 'UI/UX Designer · FE Developer',
     heroGreet: 'Merhaba,',
@@ -66,6 +68,7 @@ const translations = {
     skillsLangEn: 'İngilizce',
     skillsEduTitle: 'Eğitim',
     eduUni: 'İstanbul Medeniyet Üniversitesi',
+    eduUniDept: 'Bilgisayar Mühendisliği · ',
     eduUniSpan: '2022 – 2026 · İstanbul · GNO: 3.4',
     eduHigh: 'Sınav Koleji Fen Lisesi',
     eduHighSpan: '2018 – 2022 · Kocaeli',
@@ -92,6 +95,8 @@ const translations = {
     langSwitchTr: 'TR',
     langSwitchEn: 'EN',
     langAria: 'Choose site language',
+    navOpenMenu: 'Open menu',
+    navCloseMenu: 'Close menu',
 
     heroBadge: 'UI/UX Designer · FE Developer',
     heroGreet: 'Hello,',
@@ -137,6 +142,7 @@ const translations = {
     skillsLangEn: 'English',
     skillsEduTitle: 'Education',
     eduUni: 'Istanbul Medeniyet University',
+    eduUniDept: 'Computer Engineering',
     eduUniSpan: '2022 – 2026 · Istanbul · GPA: 3.4',
     eduHigh: 'Sinav College Science High School',
     eduHighSpan: '2018 – 2022 · Kocaeli',

@@ -78,6 +78,7 @@ export function SkillsSection() {
             <ul className="edu-list">
               <li>
                 <strong>{t.eduUni}</strong>
+                <span>{t.eduUniDept}</span>
                 <span>{t.eduUniSpan}</span>
               </li>
               <li>

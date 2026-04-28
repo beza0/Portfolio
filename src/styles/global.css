@@ -24,6 +24,7 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
@@ -35,11 +36,13 @@ body {
   color: var(--text);
   background: var(--bg-deep);
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
 #root {
   width: 100%;
   min-height: 100svh;
+  overflow-x: hidden;
 }
 
 a {
