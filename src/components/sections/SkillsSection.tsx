@@ -3,7 +3,22 @@ import { fadeUp } from '@/lib/motion-variants'
 import { sectionIds } from '@/i18n/translations'
 import { useLanguage } from '@/i18n/useLanguage'
 
-const SKILL_CHIPS = ['Figma', 'React (JS/TS)', 'Flutter', 'HTML/CSS', '...'] as const
+const SKILL_CHIPS = [
+  'React',
+  'TypeScript',
+  'JavaScript (ES6+)',
+  'Tailwind CSS',
+  'HTML5 / CSS3',
+  'Figma',
+  'Design Systems (Token-based design)',
+  'Prototyping & Wireframing',
+  'User Flow Design',
+  'Java',
+  'Spring Boot',
+  'Python',
+  'Flutter / Dart',
+  'SQL / PostgreSQL',
+] as const
 
 export function SkillsSection() {
   const { t } = useLanguage()
